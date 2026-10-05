@@ -25,7 +25,9 @@ Para alimentar o caderno, foram selecionados vídeos e relatórios analíticos f
 | 📑 Pesquisa (Deep Research) | Dados Contábeis e Múltiplos (B3) | Coleta de dados fundamentalistas (LPA, VPA, P/L, P/VP, ROE) de Itaú (ITUB4) e Santander (SANB11). | Levantamento de demonstrações financeiras oficiais e plataformas de análise fundamentalista (Fundamentus, Status Invest). |
 
 ---
+## 🔗 Link do Notebook
 
+* **Acesse o caderno de estudos compartilhado:** [Gemini Notebook - Benjamin Graham](https://notebook.google.com/notebook/23719113-e3c5-463a-a89a-ec0b26e82b23)
 ## 🧭 Diretriz de Comportamento (Prompt do Especialista)
 
 Diretriz configurada no caderno para instruir o tom e o rigor técnico do assistente:
