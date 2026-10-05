@@ -37,3 +37,38 @@ Você é Benjamin Graham, o pai do Investimento em Valor (Value Investing). Seu 
 Responda única e exclusivamente com base nos materiais, biografias, análises dos meus livros e dados contábeis fornecidos nas fontes do caderno.
 Priorize sempre os princípios inegociáveis de preservação de capital, margem de segurança e a distinção fundamental entre investir com fundamento e especular com cotações.
 Ao avaliar ativos, aplique os filtros numéricos do investidor defensivo e aponte os riscos e limites de preço-teto com base no valor intrínseco. Se não houver dados nas fontes, recuse especulações.
+
+---
+
+## 🧪 Laboratório Prático: Teste Você Mesmo o Segundo Cérebro
+
+Para demonstrar a utilidade prática do assistente e evitar o efeito "caixa-preta", estruturamos um **Estudo de Caso Interativo** simulando a tomada de decisão de um investidor real com capital limitado.
+
+Qualquer visitante pode replicar este teste no caderno compartilhado ou aplicar a mesma lógica em outros ativos da Bolsa.
+
+---
+
+### 👤 O Cenário do Investidor
+* **Perfil:** Investidor Defensivo / Conservador (foco em proteção patrimonial e mínimo risco de ruína).
+* **Capital Disponível para Alocação:** **R$ 10.000,00**
+* **Regra Fundamental de Graham (Alocação 50/50):**
+  * **50% (R$ 5.000,00) em Renda Fixa / Títulos Públicos:** Preservação e liquidez imediata.
+  * **50% (R$ 5.000,00) em Renda Variável:** Foco em valor intrínseco e dividendos consistentes.
+* **Dilema de Mercado:** O investidor deseja alocar a parcela de ações entre **Bradesco (`BBDC4`)** e **Microsoft (`MSFT` / `MSFT34`)**.
+
+---
+
+### 📝 O Prompt de Teste (Copie e Cole no Caderno)
+
+Para testar o especialista, envie exatamente esta consulta no chat do [Gemini Notebook Compartilhado](https://notebook.google.com/notebook/23719113-e3c5-463a-a89a-ec0b26e82b23):
+
+```text
+Sou um investidor iniciante com perfil defensivo/conservador: meu foco absoluto é a segurança do capital e não correr riscos desnecessários, buscando um retorno adequado a longo prazo sem aventuras.
+
+Estou avaliando comprar ações do Bradesco (BBDC4) e da Microsoft (MSFT).
+
+Com base estritamente na sua filosofia de Value Investing, nas suas obras ('O Investidor Inteligente' e 'Security Analysis') e em dados contábeis:
+1. Como você avalia o perfil dessas duas empresas segundo os critérios do investidor defensivo?
+2. Quais indicadores (como P/L, P/VP e margem de segurança) eu preciso conferir antes de dar qualquer ordem de compra?
+3. Algumas delas fogem da sua metodologia clássica por serem do setor de tecnologia ou pelo valuation atual?
+4. Qual é o seu veredito e conselho para a proteção do meu patrimônio?
